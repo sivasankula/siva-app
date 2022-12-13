@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     hii 2
-    
+     hii
+     learn react
     </div>
   );
 }
